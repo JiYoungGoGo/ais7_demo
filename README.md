@@ -11,3 +11,5 @@
 * Streamlit 으로 대시보드 만들기
 * DataFrame 보여주기
 * 시각화하기
+
+<img src="https://item.kakaocdn.net/do/fd0050f12764b403e7863c2c03cd4d2d7154249a3890514a43687a85e6b6cc82">
